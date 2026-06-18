@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>
+👯 I’m looking to collaborate<br>🤝 I’m looking for help<br>🌱 I’m currently learning<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anuj.shrestha.0.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anuj.shrestha.0.1) 
