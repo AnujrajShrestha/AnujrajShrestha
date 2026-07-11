@@ -1,6 +1,25 @@
-# 💫 About Me:
+## 💫 About Me:
+## 🧠 AI • Machine Learning • Full Stack Development
 👯 I’m looking to collaborate<br>🌱 I’m currently learning<br>
 
+I'm an aspiring *AI Engineer* passionate about developing intelligent software and solving real-world problems through technology.
+Developer passionate about Web, AI & Creative Coding.
+
+Currently focused on:
+
+- 🤖 Generative AI & Large Language Models (LLMs)
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 🧠 Machine Learning & Deep Learning
+- ⚡ FastAPI, React & Full Stack Development
+- 📊 Data Science & Computer Vision
+- ☁️ Deployment & MLOps
+
+### 🌟 Current Focus
+
+- 🚀 Building practical AI applications
+- 📖 Learning modern AI frameworks and tools
+- 🤝 Contributing to open-source projects
+- 💡 Creating projects that make an impact<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anuj.shrestha.0.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anuj.shrestha.0.1) 
