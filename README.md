@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=AnujrajShrestha&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=AnujrajShrestha&theme=blue_navy&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AnujrajShrestha&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AnujrajShrestha&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AnujrajShrestha&theme=blue-green&no-frame=false&no-bg=false&margin-w=4)
